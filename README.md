@@ -25,17 +25,6 @@ A Software Developer with 4+ years of experience and expertise in full-stack dev
 
 <br />
 
-<p align="left">
-  <a href="https://github.com/hamidafghan">
-    <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamidafghan&show_icons=true&theme=white&hide_border=true&text_color=2D2D2E&ring_color=DD6B00&hide_title=true&icon_color=8E8E8E" />
-    </a>
-    <a href="https://github.com/hamidafghan">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidafghan&theme=white&hide_border=true" />
-  </a>
-</p>
-
-<br />
-
 ```php
 {{ Follow::me() }}
 ```
